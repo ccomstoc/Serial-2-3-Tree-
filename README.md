@@ -7,7 +7,7 @@ Output can be found in [output.txt](output.txt).
 In the begining of [driver.cpp](driver.cpp) you can see that me and my partner decided in build a 2-3 tree manaully for testing
 purposes. This was to help in developing the functionality of the program. It is a bit bulky and could be redone. 
 
-As I side project I worked on an extention of the tree class called [printFancy](printFancy.h). While it is unfinished,
+As a side project I worked on an extention of the tree class called [printFancy](printFancy.h). While it is unfinished,
 it helped to visualize the tree while we developed the program. 
 
 

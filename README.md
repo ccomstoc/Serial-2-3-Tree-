@@ -1,15 +1,9 @@
 # Serial-2-3-Tree-
-This serial implementation of a 2-3 tree was completed for my parallel programming class senior year.
-While we learned the way a parallel 2-3 tree functions, we only implemented it serially. 
-The project description can be found at [projectDesc.pdf](projectDesc.pdf).
-Output can be found in [output.txt](output.txt).
 
-In the beginning of [driver.cpp](driver.cpp) you can see that me and my partner decided to build a 2-3 tree manually for testing
-purposes. This was to help in developing the functionality of the program. It is a bit bulky and could be redone. 
+This project involves the serial implementation of a 2-3 tree, undertaken during my senior year in a parallel programming class. Despite learning about the parallel functionality of a 2-3 tree, our implementation focused on the serial aspect. The detailed project description is available in projectDesc.pdf](projectDesc.pdf), and the output is documented in output.txt](output.txt).
 
-As a side project, I worked on an extension of the tree class called [printFancy](printFancy.h). While it is unfinished,
-it helped to visualize the tree while we developed the program. 
+In the initial section of [driver.cpp](driver.cpp), my partner and I manually constructed a 2-3 tree for testing purposes. This approach aided in refining the program's functionality, although the manual construction could be optimized due to its current bulkiness.
 
-
+To aid in the process, I worked on extending the tree class with [printFancy](printFancy.h). While this extension remains unfinished, it served as a valuable tool for visualizing the tree structure during the program's development.
 
 
